@@ -1,1 +1,1 @@
-# Explore_Weather_Trends
+# UDACITY Data Analysis Nanodegree Project 01: Exploring Weather Trends.
